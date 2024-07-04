@@ -10,9 +10,6 @@ Lapify is a comprehensive application designed to provide detailed information a
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Database Schema](#database-schema)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -51,3 +48,7 @@ Here are some screenshots of the Lapify application:
    ```sh
    git clone  https://github.com/chetanr250/lapify.git
    ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
