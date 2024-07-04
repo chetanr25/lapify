@@ -31,11 +31,11 @@ Here are some screenshots of the Lapify application:
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home_screen.jpg)
 
 ### Laptop Details
 
-![Laptop Details](screenshots/results_screen.png)
+![Laptop Details](screenshots/results_screen.jpeg)
 
 ## Getting Started
 
