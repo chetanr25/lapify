@@ -40,7 +40,7 @@ class _FirstScreenState extends State<FirstScreen> {
     'Microsoft',
     'Samsung'
   ];
-  var screen = ['Select Screen Size', '14', '16', '17'];
+  var screen = ['Select Screen Size', '13', '14', '16', '17'];
   var ram = ['Select RAM', '8', '16', '32', '64'];
   @override
   void initState() {
