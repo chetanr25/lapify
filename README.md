@@ -46,7 +46,7 @@ Here are some screenshots of the Lapify application:
 
 1. Clone the repository
    ```sh
-   git clone  https://github.com/chetanr250/lapify.git
+   git clone  https://github.com/chetanr25/lapify.git
    ```
 
 ## License
